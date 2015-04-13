@@ -1,7 +1,10 @@
 /**
  * 拖动创建控件类
  * 
+ * QQ群交流：451436701
+ * http://code.taobao.org/svn/form-design/
  * @auther karka.w
+ * 
  */
 
 (function ($){

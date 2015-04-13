@@ -1,7 +1,10 @@
 /**
  * 配置控件的属性设置项插件
  *
+ * QQ群交流：451436701
+ * http://code.taobao.org/svn/form-design/
  * @auther karka.w
+ * 
  */
 (function($) {
     var  fd = $.formdesign ;
